@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Kookie's Blog" # e.g. "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "kookie"
+name                     : "Kookie"
 description              : "Private Blog of -kookie-"
 url                      : "https://treebial.github.io" # the base hostname & protocol for your site 
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "kookie"
+  name             : "Kookie"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "student who wanna be a data scientist" # Default : "I am an **amazing** person."
+  bio              : "Wanna be a data scientist!" # Default : "I am an **amazing** person."
   location         : "Seoul, Korea" # Default : "Somewhere"
   email            :
   links:
