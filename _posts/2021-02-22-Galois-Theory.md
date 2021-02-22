@@ -62,7 +62,7 @@ $G(K/K)$가 trivial group이기 때문에 $G(K/F)$와 $G(K/K)$ '사이의' group
 > - $E$도 $F$의 normal extension이면, $G(K/E)$는 $G(K/F)$의 normal subgroup이고, $G(E/F) \cong G(K/F) / G(K/E)$이다.
 > - field diagram과 group diagram을 그리면 역순으로 완전히 일치한다.
 
-$K$와 $F$에 대해 subfield diagram을 그리고, $G(K/F)$와 $G(K/K)$에 대해 subgroup diagram을 그리면 서로 완전히 역순을 이룬다는 것은 field를 다루는 데에 있어 아주 강력한 직관을 제공한다. 예를 들어 만약 $G(K/F) \cong \mathbb{Z}_{12}$인 $K$와 $F$가 있다면, 우린 이미 $\mathbb{Z}_{12}$의 구조를 알고 있기에 $K$와 $F$의 모든 field들도 구조화할 수 있다는 것을 의미한다.
+$K$와 $F$에 대해 subfield diagram을 그리고, $G(K/F)$와 $G(K/K)$에 대해 subgroup diagram을 그리면 서로 완전히 역순을 이룬다는 것은 field를 다루는 데에 있어 아주 강력한 직관을 제공한다. 예를 들어 만약 $G(K/F) \cong \mathbb{Z}\_{12}$인 $K$와 $F$가 있다면, 우린 이미 $\mathbb{Z}\_{12}$의 구조를 알고 있기에 $K$와 $F$의 모든 field들도 구조화할 수 있다는 것을 의미한다.
 
 ## Finite Field의 Galois Theory
 
