@@ -16,7 +16,7 @@ use_math: true
 
 # Motivation
 
-Fraleigh 책에서는 **Normal Extension**과 **Galois Theory**를 위해 48장부터 52장까지 몇 가지 개념들을 쌓아 올린다. automorphism extension theorem, splitting field, separable field 등이 그것이다. (splitting field는 $\left\vert G(E/F) \right\vert = \left\{ E:F \right\}$로, separable field는 $\left\{ E:F \right\} = [E:F]$로 대표될 수 있음을 기억하자.)
+Fraleigh 책에서는 **Normal Extension**과 **Galois Theory**를 위해 48장부터 52장까지 몇 가지 개념들을 쌓아 올린다. automorphism extension theorem, splitting field, separable field 등이 그것이다. (splitting field는 $\left\vert G(E/F) \right\vert = \\{ E:F \\}$로, separable field는 $\\{ E:F \\} = [E:F]$로 대표될 수 있음을 기억하자.)
 
 하지만 이 개념들은, 그 자체만으로 매우 강력한 성질을 가지고 있다고 보기 힘들다. 하지만 이 둘을 합친, 즉 splitting인 동시에 separable인 field는 **Normal Extension**이라는 이름이 따로 붙을 정도로 매우 강력한 성질을 가지고 있으며, 그 강력한 성질을 규명한 것이 바로 **Galois Theory**이다.
 
