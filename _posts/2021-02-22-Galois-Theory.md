@@ -10,6 +10,8 @@ Tag:
   - 현대대수학
   - Galois Theory
   - Fraleigh
+toc: true
+use_math: true
 ---
 
 # Motivation
