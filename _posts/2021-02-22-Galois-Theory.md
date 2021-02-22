@@ -44,7 +44,7 @@ Fraleigh 책에서는 **Normal Extension**과 **Galois Theory**를 위해 48장�
 ## Galois Theory
 
 Galois Theory를 한 문장으로 요약하면 다음과 같다. (Fraleigh 책의 내용을 임의대로 요약한 것이다.)
-> field $F$와 $F$의 finite normal extension $K$를 생각하자. 그러면 $F$와 $K$ 사이의 임의의 field와 $G(K/F)$와 $G(K/K)=\left\{ e \right\}$ 사이의 임의의 group에 대해서 일대일대응 관계가 성립한다.
+> field $F$와 $F$의 finite normal extension $K$를 생각하자. 그러면 $F$와 $K$ 사이의 임의의 field와 $G(K/F)$와 $G(K/K)=\\{ e \\}$ 사이의 임의의 group에 대해서 일대일대응 관계가 성립한다.
 
 $G(K/K)$가 trivial group이기 때문에 $G(K/F)$와 $G(K/K)$ '사이의' group이라는 표현이 어색할 수도 있다. 그냥 $G(K/F)$의 subgroup이라 하면 될 것을 굳이? 하지만 이는 field에서 '사이'라는 표현이 사용되는 것에 대응되도록 쓴 표현이다.
 
