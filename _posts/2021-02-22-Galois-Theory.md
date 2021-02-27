@@ -1,6 +1,6 @@
 ---
 Title: "[현대대수학] Galois Theory"
-Categories:
+categories:
   - Math
     - Abstract Algebra
 Tag:
