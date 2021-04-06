@@ -15,15 +15,19 @@ use_math: true
 > Def 5.3. Outer Measure  
 > algebra $\mathcal{A}$와 그 위의 premeasure $\mu$에 대해서 outer measure $\mu^{\ast}: \mathcal{P}(X) \rightarrow \left[0, \infty \right]$을 다음과 같이 정의한다.
 > $$\mu^{\ast}(E) = \inf \left\{ \sum_{i} \mu(A_{i}) : A_{i} \in \mathcal{A} \text{ and } E \subseteq \bigcup_{i} A_{i} \right\}$$
+
 ### Note
 $\mu^{\ast}$의 정의를 이용해 계산에 필요한 몇 가지 도구를 알아보자.
 1. $E$의 cover $A_{i}$를 충분히 작게 잡을 수 있다. 즉, $\forall \epsilon > 0$, $\exists A_{i} \in \mathcal{A}$ s.t. $A_{i}$ covers $E$ and $\mu^{\ast}(E) < \sum_{i} \mu(A_{i}) + \epsilon$이다.
+
 ### Proposition 5.4.
 1. $\mu^{\ast}(\phi) = 0$
 1. $\mu^{\ast}(A) \le \mu^{\ast}(B)$ for $A \subseteq B$
 1. $\mu^{\ast}(\cup_{i} A_{i}) \le \sum_{i} \mu^{\ast}(A_{i})$
+
 ### Remark 5.10.
 $\mu^{\ast}(A) \le \mu^{\ast}(A\cap E) + \mu^{\ast}(A \cap E^{C})$임을 이미 알고 있으므로, 만약 어떤 집합 $E$가 $\mu^{\ast}$-measurable인지 체크하고 싶으면 $\mu^{\ast}(A) \ge \mu^{\ast}(A\cap E) + \mu^{\ast}(A \cap E^{C})$만 체크하면 된다.
+
 ### Theorem 5.11.
 > Thm 5.11. Caratheodory Extension Theorem
 > - $\mathcal{M}^{\ast}$이 $\sigma$-algebra이다.
